@@ -1,9 +1,15 @@
+//HTML
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8">
-<title>興</title>
+<title></title>
 </head>    
 <body>
     </html>
 </body>   
+
+//jQery
+$(document).ready(function(){
+ 
+});
